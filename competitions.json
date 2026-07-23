@@ -6992,6 +6992,24 @@
       "conference_year": null
     },
     {
+      "name": "Identify Reef Fish Species with Computer Vision Models",
+      "url": "https://zindi.africa/competitions/wishlist-hackathon-2026-marine-vision-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
+      "tags": [
+        "supervised",
+        "classification",
+        "vision",
+        "measurable"
+      ],
+      "launched": "25 Jul 2026",
+      "registration-deadline": "29 Aug 2026",
+      "deadline": "29 Aug 2026",
+      "prize": "$1,500",
+      "platform": "Zindi",
+      "sponsor": "Fairytale, bluebot, GovTech, INFOLYTICS",
+      "conference": null,
+      "conference_year": null
+    },
+    {
       "name": "Predict Student Learning Outcomes from Tutoring Transcripts",
       "url": "https://platform.k12-ai-infrastructure.org/competitions/3/tutoring-outcomes/?ref=mlcontests",
       "tags": [
