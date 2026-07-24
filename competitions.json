@@ -7033,7 +7033,7 @@
       "additional_urls": []
     },
     {
-      "name": "The Email Game",
+      "name": "Build Smart, Reliable Email Agents",
       "url": "https://theemailgame.com/?ref=mlcontests",
       "tags": [
         "agents",
@@ -7041,7 +7041,8 @@
         "nlp",
         "game",
         "security",
-        "pvp"
+        "pvp",
+        "hackathon"
       ],
       "launched": null,
       "registration-deadline": null,
