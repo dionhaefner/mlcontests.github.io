@@ -7049,6 +7049,29 @@
       "conference": null,
       "conference-year": null,
       "additional_urls": []
+    },
+    {
+      "name": "Build Smart, Reliable Email Agents",
+      "url": "https://theemailgame.com/?ref=mlcontests",
+      "tags": [
+        "agents",
+        "llm",
+        "nlp",
+        "game",
+        "security",
+        "pvp",
+        "hackathon"
+      ],
+      "launched": null,
+      "registration-deadline": null,
+      "deadline": "1 Aug 2026",
+      "added": "22 Jul 2026",
+      "prize": "$1,700",
+      "platform": "Independent",
+      "sponsor": "WithAI",
+      "conference": null,
+      "conference-year": null,
+      "additional_urls": []
     }
   ]
 }
