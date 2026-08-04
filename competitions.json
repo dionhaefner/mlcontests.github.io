@@ -7256,6 +7256,28 @@
       "conference": "NeurIPS",
       "conference-year": 2026,
       "additional_urls": []
+    },
+    {
+      "name": "Interpretability for AI Mathematical Olympiad Reasoning",
+      "url": "https://aimo-interp.github.io/?ref=mlcontests",
+      "tags": [
+        "interpretability",
+        "llm",
+        "mathematics",
+        "reasoning"
+      ],
+      "launched": "15 Jul 2026",
+      "registration-deadline": null,
+      "deadline": "25 Oct 2026",
+      "added": "29 Jul 2026",
+      "prize": "$10,000",
+      "platform": "Codabench",
+      "sponsor": "Fields Model Initiative",
+      "conference": "NeurIPS",
+      "conference-year": 2026,
+      "additional_urls": [
+        "https://www.codabench.org/competitions/16180/"
+      ]
     }
   ]
 }
