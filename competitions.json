@@ -7278,6 +7278,26 @@
       "additional_urls": [
         "https://www.codabench.org/competitions/16180/"
       ]
+    },
+    {
+      "name": "Quantitative Physical Reasoning for VLMs",
+      "url": "https://quantiphy.stanford.edu/competition/index.html?ref=mlcontests",
+      "tags": [
+        "vision",
+        "reasoning",
+        "physics",
+        "multimodal"
+      ],
+      "launched": "30 Jun 2026",
+      "registration-deadline": null,
+      "deadline": "5 Nov 2026",
+      "added": "29 Jul 2026",
+      "prize": null,
+      "platform": "Independent",
+      "sponsor": "Stanford HAI, UST",
+      "conference": "NeurIPS",
+      "conference-year": 2026,
+      "additional_urls": []
     }
   ]
 }
