@@ -7159,10 +7159,10 @@
       ]
     },
     {
-      "name": "Competitive Farming Simulation Game",
+      "name": "Competitive Farming Strategy Game",
       "url": "https://www.kaggle.com/competitions/kaggriculture?ref=mlcontests",
       "tags": [
-        "rl",
+        "reinforcement learning",
         "pvp",
         "game",
         "measurable",
