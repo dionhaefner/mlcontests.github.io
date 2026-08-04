@@ -7176,6 +7176,66 @@
       "sponsor": "Kaggle",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "Generate Synthetic Humanitarian Survey Responses",
+      "url": "https://situatedevals.org/simulacrabench?ref=mlcontests",
+      "tags": [
+        "llm",
+        "benchmarks",
+        "generative",
+        "research"
+      ],
+      "launched": "1 Aug 2026",
+      "registration-deadline": null,
+      "deadline": "14 Nov 2026",
+      "added": "29 Jul 2026",
+      "prize": null,
+      "platform": "Independent",
+      "sponsor": null,
+      "conference": "NeurIPS",
+      "conference-year": 2026,
+      "additional_urls": []
+    },
+    {
+      "name": "Generative AI for Antimicrobial Peptide Design",
+      "url": "https://szczurek-lab.github.io/amp-challenge-website/?ref=mlcontests",
+      "tags": [
+        "biology",
+        "generative",
+        "chemistry",
+        "science"
+      ],
+      "launched": null,
+      "registration-deadline": null,
+      "deadline": "1 Oct 2026",
+      "added": "29 Jul 2026",
+      "prize": null,
+      "platform": "Independent",
+      "sponsor": null,
+      "conference": "NeurIPS",
+      "conference-year": 2026,
+      "additional_urls": []
+    },
+    {
+      "name": "Automated Speech Recognition Under Diverse Speech Patterns",
+      "url": "https://xiuwenz2.github.io/SAPC2-website/?ref=mlcontests",
+      "tags": [
+        "speech",
+        "audio",
+        "nlp",
+        "health"
+      ],
+      "launched": "3 Dec 2025",
+      "registration-deadline": null,
+      "deadline": "31 Aug 2026",
+      "added": "29 Jul 2026",
+      "prize": "$10,000",
+      "platform": "Codabench",
+      "sponsor": "AI Accessibility Coalition",
+      "conference": "NeurIPS",
+      "conference-year": 2026,
+      "additional_urls": []
     }
   ]
 }
