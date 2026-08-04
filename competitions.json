@@ -7298,6 +7298,25 @@
       "conference": "NeurIPS",
       "conference-year": 2026,
       "additional_urls": []
+    },
+    {
+      "name": "Robust Optical Flow Correspondence Matching",
+      "url": "https://roco-spring.github.io/?ref=mlcontests",
+      "tags": [
+        "vision",
+        "images",
+        "3d"
+      ],
+      "launched": "2 Jul 2026",
+      "registration-deadline": null,
+      "deadline": "30 Sep 2026",
+      "added": "29 Jul 2026",
+      "prize": null,
+      "platform": "Independent",
+      "sponsor": null,
+      "conference": "NeurIPS",
+      "conference-year": 2026,
+      "additional_urls": []
     }
   ]
 }
