@@ -7159,11 +7159,14 @@
       ]
     },
     {
-      "name": "Kaggriculture",
+      "name": "Competitive Farming Simulation Game",
       "url": "https://www.kaggle.com/competitions/kaggriculture?ref=mlcontests",
       "tags": [
-        "simulations",
-        "custom metric"
+        "rl",
+        "pvp",
+        "game",
+        "measurable",
+        "control"
       ],
       "launched": "30 Jul 2026",
       "registration-deadline": "23 Sep 2026",
