@@ -7317,6 +7317,124 @@
       "conference": "NeurIPS",
       "conference-year": 2026,
       "additional_urls": []
+    },
+    {
+      "name": "Classify DaT Scans for Parkinson's Detection",
+      "url": "https://www.drivendata.org/competitions/311/dat-parkinsons-challenge/?ref=mlcontests",
+      "tags": [
+        "supervised",
+        "vision",
+        "classification",
+        "medical",
+        "measurable"
+      ],
+      "launched": "23 Jul 2026",
+      "registration-deadline": "16 Sep 2026",
+      "deadline": "16 Sep 2026",
+      "prize": "$27,000",
+      "platform": "DrivenData",
+      "sponsor": "SFMN, Health Data Hub, France 2030",
+      "conference": null,
+      "conference_year": null,
+      "additional_urls": [
+        "https://www.health-data-hub.fr/bibliotheque-ouverte-algorithmes-sante"
+      ]
+    },
+    {
+      "name": "DataHub Agent Hackathon",
+      "url": "https://datahub.devpost.com/?ref=mlcontests",
+      "tags": [
+        "hackathon",
+        "agents",
+        "llm",
+        "code",
+        "generative"
+      ],
+      "launched": "6 Jul 2026",
+      "registration-deadline": "10 Aug 2026",
+      "deadline": "10 Aug 2026",
+      "prize": "$20,500",
+      "platform": "Devpost",
+      "sponsor": "DataHub",
+      "conference": null,
+      "conference_year": null,
+      "additional_urls": []
+    },
+    {
+      "name": "Build On-Device LLMs for Laptop Hardware",
+      "url": "https://adtc-2026.devpost.com/?ref=mlcontests",
+      "tags": [
+        "hackathon",
+        "llm",
+        "generative",
+        "efficiency"
+      ],
+      "launched": "16 Jun 2026",
+      "registration-deadline": "24 Aug 2026",
+      "deadline": "24 Aug 2026",
+      "prize": "$16,500",
+      "platform": "Devpost",
+      "sponsor": "Various",
+      "conference": null,
+      "conference_year": null,
+      "additional_urls": []
+    },
+    {
+      "name": "Showcase AI Systems Optimised for Arm Platforms",
+      "url": "https://arm-ai-optimization-challenge.devpost.com/?ref=mlcontests",
+      "tags": [
+        "hackathon",
+        "efficiency",
+        "hardware",
+        "generative"
+      ],
+      "launched": "10 Jun 2026",
+      "registration-deadline": "14 Aug 2026",
+      "deadline": "14 Aug 2026",
+      "prize": "$8,000",
+      "platform": "Devpost",
+      "sponsor": "Arm",
+      "conference": null,
+      "conference_year": null,
+      "additional_urls": []
+    },
+    {
+      "name": "Backblaze Generative Media Hackathon",
+      "url": "https://backblaze-generative-media.devpost.com/?ref=mlcontests",
+      "tags": [
+        "hackathon",
+        "generative",
+        "vision",
+        "multimodal"
+      ],
+      "launched": "22 Jun 2026",
+      "registration-deadline": "3 Aug 2026",
+      "deadline": "3 Aug 2026",
+      "prize": "$10,000",
+      "platform": "Devpost",
+      "sponsor": "Backblaze, GMI Cloud",
+      "conference": null,
+      "conference_year": null,
+      "additional_urls": []
+    },
+    {
+      "name": "Build Agents With CockroachDB Memory",
+      "url": "https://cockroachdb-ai.devpost.com/?ref=mlcontests",
+      "tags": [
+        "hackathon",
+        "agents",
+        "llm",
+        "code"
+      ],
+      "launched": "30 Jun 2026",
+      "registration-deadline": "18 Aug 2026",
+      "deadline": "18 Aug 2026",
+      "prize": "$8,750",
+      "platform": "Devpost",
+      "sponsor": "Cockroach Labs, AWS",
+      "conference": null,
+      "conference_year": null,
+      "additional_urls": []
     }
   ]
 }
