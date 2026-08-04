@@ -7236,6 +7236,26 @@
       "conference": "NeurIPS",
       "conference-year": 2026,
       "additional_urls": []
+    },
+    {
+      "name": "Generative Modeling of Mouse Embryo Development",
+      "url": "https://virtualembryo.ai/challenge?ref=mlcontests",
+      "tags": [
+        "biology",
+        "generative",
+        "science",
+        "genomics"
+      ],
+      "launched": "30 Jun 2026",
+      "registration-deadline": null,
+      "deadline": "25 Oct 2026",
+      "added": "29 Jul 2026",
+      "prize": "$54,000",
+      "platform": "Independent",
+      "sponsor": "Laude Institute",
+      "conference": "NeurIPS",
+      "conference-year": 2026,
+      "additional_urls": []
     }
   ]
 }
