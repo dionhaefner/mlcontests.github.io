@@ -16,7 +16,9 @@
       "prize": "$1,200",
       "platform": "Codabench",
       "sponsor": "Jane Street, AoPS, Nord Sec, Interview Buddy",
-      "additional_urls": ["https://www.codabench.org/competitions/16945/"]
+      "additional_urls": [
+        "https://www.codabench.org/competitions/16945/"
+      ]
     },
     {
       "name": "Identify Gene Pairs Driving Metabolic Diseases (Part 3)",
@@ -7129,7 +7131,10 @@
       "sponsor": "Uniforce AI",
       "conference": "NeurIPS",
       "conference-year": 2026,
-      "additional_urls": ["https://www.codabench.org/competitions/17363/", "https://www.codabench.org/competitions/17385/"]
+      "additional_urls": [
+        "https://www.codabench.org/competitions/17363/",
+        "https://www.codabench.org/competitions/17385/"
+      ]
     },
     {
       "name": "Weak Lensing Uncertainty under Distribution Shift",
@@ -7152,6 +7157,25 @@
       "additional_urls": [
         "https://www.codabench.org/competitions/10902/"
       ]
+    },
+    {
+      "name": "Competitive Farming Strategy Game",
+      "url": "https://www.kaggle.com/competitions/kaggriculture?ref=mlcontests",
+      "tags": [
+        "reinforcement learning",
+        "pvp",
+        "game",
+        "measurable",
+        "control"
+      ],
+      "launched": "30 Jul 2026",
+      "registration-deadline": "23 Sep 2026",
+      "deadline": "30 Sep 2026",
+      "prize": "$50,000",
+      "platform": "Kaggle",
+      "sponsor": "Kaggle",
+      "conference": null,
+      "conference_year": null
     }
   ]
 }
