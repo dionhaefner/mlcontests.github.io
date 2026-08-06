@@ -7176,6 +7176,26 @@
       "sponsor": "Kaggle",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "RSNA Knee Abnormality Detection",
+      "url": "https://www.kaggle.com/competitions/rsna-knee-abnormality-detection?ref=mlcontests",
+      "tags": [
+        "medicine",
+        "computer vision",
+        "image",
+        "text",
+        "image classification",
+        "roc auc score"
+      ],
+      "launched": "5 Aug 2026",
+      "registration-deadline": "15 Oct 2026",
+      "deadline": "22 Oct 2026",
+      "prize": "$77,000",
+      "platform": "Kaggle",
+      "sponsor": "Radiological Society of North America",
+      "conference": null,
+      "conference_year": null
     }
   ]
 }
