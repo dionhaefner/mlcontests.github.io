@@ -7178,15 +7178,13 @@
       "conference_year": null
     },
     {
-      "name": "RSNA Knee Abnormality Detection",
+      "name": "Detect Knee Abnormalities in Multimodal Imaging Data",
       "url": "https://www.kaggle.com/competitions/rsna-knee-abnormality-detection?ref=mlcontests",
       "tags": [
         "medicine",
-        "computer vision",
-        "image",
+        "vision",
         "text",
-        "image classification",
-        "roc auc score"
+        "classification"
       ],
       "launched": "5 Aug 2026",
       "registration-deadline": "15 Oct 2026",
